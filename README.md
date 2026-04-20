@@ -52,21 +52,21 @@ You can even use many exotic [**PG Kernel Forks**](https://pigsty.io/docs/pgsql/
 [![CLOUDBERRY](https://img.shields.io/badge/CLOUDBERRY-FF8C00?style=flat&logo=postgresql&labelColor=FF8C00&logoColor=black)](https://pigsty.io/docs/pgsql/kernel/cloudberry)
 
 
-|                            Kernel                            |           Key Feature            | Description                                       |
-|:------------------------------------------------------------:|:--------------------------------:|:--------------------------------------------------|
-|  [<span class="notranslate">PostgreSQL</span>](https://pigsty.io/docs/pgsql/kernel/postgres)  |       **Battery-Included**       | Original PGDG PostgreSQL with 460+ extensions     |
-|       [<span class="notranslate">Supabase</span>](https://pigsty.io/docs/app/supabase)        |      **Backend as Service**      | BaaS over PostgreSQL, Firebase alternative        |
-|      [<span class="notranslate">Citus</span>](https://pigsty.io/docs/pgsql/kernel/citus)      |      **Horizontal Scaling**      | Distributive PostgreSQL via native extension      |
-|  [<span class="notranslate">Babelfish</span>](https://pigsty.io/docs/pgsql/kernel/babelfish)  |    **SQL Server Simulation**     | Microsoft SQL Server wire-compatibility           |
-|   [<span class="notranslate">IvorySQL</span>](https://pigsty.io/docs/pgsql/kernel/ivorysql)   |      **Oracle Simulation**       | Oracle Grammar and PL/SQL compatible              |
-|   [<span class="notranslate">OpenHalo</span>](https://pigsty.io/docs/pgsql/kernel/openhalo)   |       **MySQL Simulation**       | MySQL wire-protocol compatibility                 |
-|          [<span class="notranslate">FerretDB</span>](https://pigsty.io/docs/ferret)           |      **MongoDB Simulation**      | MongoDB wire-protocol compatibility               |
-|    [<span class="notranslate">Percona</span>](https://pigsty.io/docs/pgsql/kernel/percona)    | **Transparent Data Encryption**  | Percona Distribution with pg_tde                  |
-|   [<span class="notranslate">OrioleDB</span>](https://pigsty.io/docs/pgsql/kernel/orioledb)   |   **OLTP Optimization Engine**   | No bloat, No XID Wraparound, S3 Storage           |
-|    [<span class="notranslate">PolarDB</span>](https://pigsty.io/docs/pgsql/kernel/polardb)    |      **Aurora flavor RAC**       | RAC, China domestic compliance                    |
-| [<span class="notranslate">AgensGraph</span>](https://pigsty.io/docs/pgsql/kernel/agensgraph) |    **Graph-Native Database**     | Transactional graph database based on PostgreSQL  |
-|     [<span class="notranslate">pgEdge</span>](https://pigsty.io/docs/pgsql/kernel/pgedge)     |  **Multi-Master Distributive**   | Geo-Distributive multi-writer Postgres            |
-| [<span class="notranslate">Cloudberry</span>](https://pigsty.io/docs/pgsql/kernel/cloudberry) |      **MPP Data Warehouse**      | Greenplum 7 Apache OSS Fork                       |
+|                            Kernel                              |           Key Feature            | Description                                       |
+|:--------------------------------------------------------------:|:--------------------------------:|:--------------------------------------------------|
+|  [`PostgreSQL`](https://pigsty.io/docs/pgsql/kernel/postgres)  |       **Battery-Included**       | Original PGDG PostgreSQL with 460+ extensions     |
+|       [`Supabase`](https://pigsty.io/docs/app/supabase)        |      **Backend as Service**      | BaaS over PostgreSQL, Firebase alternative        |
+|      [`Citus`](https://pigsty.io/docs/pgsql/kernel/citus)      |      **Horizontal Scaling**      | Distributive PostgreSQL via native extension      |
+|  [`Babelfish`](https://pigsty.io/docs/pgsql/kernel/babelfish)  |    **SQL Server Simulation**     | Microsoft SQL Server wire-compatibility           |
+|   [`IvorySQL`](https://pigsty.io/docs/pgsql/kernel/ivorysql)   |      **Oracle Simulation**       | Oracle Grammar and PL/SQL compatible              |
+|   [`OpenHalo`](https://pigsty.io/docs/pgsql/kernel/openhalo)   |       **MySQL Simulation**       | MySQL wire-protocol compatibility                 |
+|          [`FerretDB`](https://pigsty.io/docs/ferret)           |      **MongoDB Simulation**      | MongoDB wire-protocol compatibility               |
+|    [`Percona`](https://pigsty.io/docs/pgsql/kernel/percona)    | **Transparent Data Encryption**  | Percona Distribution with pg_tde                  |
+|   [`OrioleDB`](https://pigsty.io/docs/pgsql/kernel/orioledb)   |   **OLTP Optimization Engine**   | No bloat, No XID Wraparound, S3 Storage           |
+|    [`PolarDB`](https://pigsty.io/docs/pgsql/kernel/polardb)    |      **Aurora flavor RAC**       | RAC, China domestic compliance                    |
+| [`AgensGraph`](https://pigsty.io/docs/pgsql/kernel/agensgraph) |    **Graph-Native Database**     | Transactional graph database based on PostgreSQL  |
+|     [`pgEdge`](https://pigsty.io/docs/pgsql/kernel/pgedge)     |  **Multi-Master Distributive**   | Geo-Distributive multi-writer Postgres            |
+| [`Cloudberry`](https://pigsty.io/docs/pgsql/kernel/cloudberry) |      **MPP Data Warehouse**      | Greenplum 7 Apache OSS Fork                       |
 
 And gather the synergistic superpowers of all [**460+ PostgreSQL Extensions**](https://pigsty.io/ext/list) all together:
 
